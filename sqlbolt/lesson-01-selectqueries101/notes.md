@@ -5,12 +5,16 @@
 
 ## Important Syntax
 - Select query for specific columns
-`SELECT column, another_column, ...
-FROM mytable;`
+`
+SELECT column, another_column, ...
+FROM mytable;
+`
 
 - Select query for **all** columns
-`SELECT *
-FROM mytable`
+`
+SELECT *
+FROM mytable
+`
 
 ## Table used in example
 
