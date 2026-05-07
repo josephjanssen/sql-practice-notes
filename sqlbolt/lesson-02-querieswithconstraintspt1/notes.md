@@ -7,7 +7,7 @@
     - =, !=, <, >, >=, <= 
     - BETWEEN/NOT BETWEEN ... AND ...
     - IN/NOT IN(...)
-    > number exists/does not exist in a list
+        > number exists/does not exist in a list
     
 ## Important Syntax
 - Select query with constraints
